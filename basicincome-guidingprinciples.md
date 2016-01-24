@@ -29,13 +29,13 @@ Underlying this principle is the Millian liberal view that there is a prima faci
 
 This third principle is also crucial for assessing alternative benefit schemes. A right is possessed by virtue of a person’s humanity or citizenship, and cannot be made dependent on some behavioural conditionality. Social and economic entitlements should be rights, not matters for the discretionary decisions of bureaucrats or philanthropists or aid donors.
 
-The Ecological Constraint Principle – A policy or institutional change is socially just only if it does not involve an ecological cost borne by the community or by those directly affected. 
+* The Ecological Constraint Principle – A policy or institutional change is socially just only if it does not involve an ecological cost borne by the community or by those directly affected. 
 
 "Does a Basic Income policy have an unsustainable cost to the environment?"
 
 Benefit schemes should be subject to the constraint that they should not deliberately or carelessly jeopardise the environment.
 
-The Dignified Work Principle – A policy or institutional change is just only if it does not impede people from pursuing work in a dignified way and if it does not disadvantage the most insecure groups in that respect. 
+* The Dignified Work Principle – A policy or institutional change is just only if it does not impede people from pursuing work in a dignified way and if it does not disadvantage the most insecure groups in that respect. 
 
 "Does a Basic Income policy promote people's ability to make their own choices about the kind of paid work they do?"
 
